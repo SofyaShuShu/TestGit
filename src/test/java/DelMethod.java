@@ -1,6 +1,8 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
+тут были внесены изменения...
+
 import java.util.List;//все, что далее - новое
 By answerListButton = By.className("accordion__button");
 
